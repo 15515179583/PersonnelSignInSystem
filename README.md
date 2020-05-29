@@ -14,7 +14,7 @@
 - 查询之前会议人员签到状况
 
 ## 界面展示
-![首页](./images/home.jpg)
+![首页](images/home.jpg)
 ![制卡](images/card.jpg)
 ![工作签到](images/work.jpg)
 ![会议签到](images/meeting.jpg)
